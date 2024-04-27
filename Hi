@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unblocked Games for School</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Unblocked Games for School</h1>
+        <p>Here are some fun games you can play at school:</p>
+        <ul>
+            <li><a href="https://example.com/game1" target="_blank">Game 1: Tetris</a> - Classic puzzle game where you arrange falling blocks to clear lines.</li>
+            <li><a href="https://example.com/game2" target="_blank">Game 2: Super Mario Bros</a> - Iconic platformer where you navigate through levels, collect coins, and defeat enemies.</li>
+            <li><a href="https://example.com/game3" target="_blank">Game 3: Snake</a> - Simple yet addictive game where you control a snake to eat food and grow.</li>
+            <!-- Add more games as needed -->
+        </ul>
+    </div>
+</body>
+</html>
